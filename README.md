@@ -3,13 +3,15 @@
 
 ## Introduction
 
+This was forked from Honoki so it can be ran locally and not require the BBRF server to be open to the internet. This can be run using 'npm run serve' on the local machine.
+
 The Bug Bounty Reconnaissance Framework (BBRF) can be used to coordinate your reconnaissance workflows across multiple devices. For more background, read [the original blog post](https://honoki.net/2020/10/08/introducing-bbrf-yet-another-bug-bounty-reconnaissance-framework/).
 
 If you are new to BBRF, you will need to deploy a [BBRF server](https://github.com/honoki/bbrf-server) and start using the [BBRF client](https://github.com/honoki/bbrf-client) before you can enjoy this dashboard.
 
 ## Dashboard
 
-If you like browsing through your recon data with a GUI, you can use the BBRF dashboard on https://bbrf.me. Just plug in your server URL, username and password, and the dashboard will pull your data and make it searchable. Note that all communication to the server happens via your browser, so your data remains safe!
+Just plug in your server URL, username and password, and the dashboard will pull your data and make it searchable. Note that all communication to the server happens via your browser, so your data remains safe!
 
 [![asciicast](images/dashboard.gif)](https://bbrf.me/)
 
