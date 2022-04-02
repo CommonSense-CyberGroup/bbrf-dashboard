@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This was forked from Honoki so it can be ran locally and not require the BBRF server to be open to the internet. This can be run using 'npm run serve' on the local machine.
+This was forked from Honoki so it can be ran locally and not require the BBRF server to be open to the internet. This can be run using `npm run serve` on the local machine.
 
 The Bug Bounty Reconnaissance Framework (BBRF) can be used to coordinate your reconnaissance workflows across multiple devices. For more background, read [the original blog post](https://honoki.net/2020/10/08/introducing-bbrf-yet-another-bug-bounty-reconnaissance-framework/).
 
